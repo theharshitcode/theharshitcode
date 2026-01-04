@@ -60,8 +60,8 @@ Currently focused on **industry-level MERN projects** and preparing for **produc
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/harshit-saxena  
-- 📧 Email: harshitsaxena.dev@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/harshitsaxena  
+- 📧 Email: harshitsaxena9228@gmail.com  
 - 🌐 GitHub: https://github.com/theharshitcode  
 
 ---
